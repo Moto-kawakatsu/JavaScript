@@ -33,4 +33,10 @@
   -webkit-box-shadow: none;
           box-shadow: none;
 }
+
+.try .btn.letter-spacing:hover {
+  background-color: black;
+  letter-spacing: 3px;
+  color: white;
+}
 /*# sourceMappingURL=try.css.map */
